@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+p{
+    color: grey;
+    font-size: 24px;
+    text-align: justify;
+    text-transform: lowercase;
+    line-height: normal;
+    
+}
+img{
+    width: 200px;
+   
+}
